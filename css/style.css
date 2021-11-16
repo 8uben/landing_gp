@@ -40,10 +40,12 @@ nav a:hover, .footer .contact a:hover {
   text-align: right;
 }
 
+/*
 .intro {
   background: url("../images/intro.jpg") center no-repeat;
   background-size: cover;
 }
+*/
 
 .intro_text {
   background-color: rgba(0,0,0,0.5);
